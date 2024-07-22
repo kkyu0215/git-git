@@ -1,6 +1,6 @@
 # merge.py
 def greet():
-print("Hello from the chanwoo branch") 
+print("Hello from the main branch") 
 #이부분에서 충돌이 발
 #것이므로 gildong부분에 자기 이름 넣어주시면 됩니다.
 def add(a, b):
